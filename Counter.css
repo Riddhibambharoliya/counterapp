@@ -1,0 +1,19 @@
+.button {
+    background-color: rgb(179, 237, 97);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 20px;
+}
+
+.count {
+    color: rosybrown;
+}
+.counter{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    color: cadetblue;
+}
+.but{
+    background-color: rgb(179, 237, 97);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 20px; 
+}
